@@ -1,0 +1,5 @@
+Python'da indentation önemlidir.
+Python'da ':' önemlidir.
+Python'da lütfen sýnýflarý büyük harfle baþlatýn.
+Python'da dosyalar ile çalýþýrken çalýþma dizinini kontrol edin.
+Python'da birçok uygulama geliþtirilebilir.
